@@ -6,3 +6,5 @@
 * reboot your device, once it boots connect to it via SSH, we'll need to install some stuff:
   sudo apk add alsa-utils alsa-ucm-conf firmware-samsung-midas.
  after that copy over the contents of tab3-ucm.tar.gz to /usr/share/alsa/ucm2/conf.d/ using sftp
+  # to knuxify
+  if you want me to remove this repo for whaterver reason just ask me 
